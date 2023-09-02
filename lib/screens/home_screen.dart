@@ -9,7 +9,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  int _page = 1;
+  int _page = 0;
 
   onPageChanged(int page) {
     setState(() {
