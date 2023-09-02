@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
         type: BottomNavigationBarType.fixed,
         items: [
           BottomNavigationBarItem(
-              icon: Icon(Icons.comment_bank), label: "Meeting and Chat"),
+              icon: Icon(Icons.comment_bank), label: "Meet and Chat"),
           BottomNavigationBarItem(
               icon: Icon(Icons.lock_clock), label: "Meetings"),
           BottomNavigationBarItem(
